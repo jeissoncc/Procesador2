@@ -1,0 +1,2 @@
+vhdtdtfi -prj Procesador2 -o "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/sumador.vhi" -module sumador -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../../Procesador/sumador.vhd 
+vhdtdtfi -prj Procesador2 -o "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/sumador.vhi" -module sumador -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../../Procesador/sumador.vhd 

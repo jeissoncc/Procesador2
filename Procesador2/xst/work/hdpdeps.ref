@@ -1,0 +1,75 @@
+V3 39
+FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/ALU.vhd" 2017/10/02.18:39:47 P.20131013
+EN work/ALU 1507558031 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/ALU.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179 PB ieee/NUMERIC_STD 1381692181
+AR work/ALU/Behavioral 1507558032 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/ALU.vhd" \
+      EN work/ALU 1507558031
+FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/PC.vhd" 2017/10/02.19:45:05 P.20131013
+EN work/PC 1507558019 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/PC.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/PC/Behavioral 1507558020 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/PC.vhd" \
+      EN work/PC 1507558019
+FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/sumador.vhd" 2017/09/28.19:51:44 P.20131013
+EN work/sumador 1507558015 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/sumador.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/sumador/Behavioral 1507558016 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/sumador.vhd" \
+      EN work/sumador 1507558015
+FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/UC.vhd" 2017/10/02.19:09:29 P.20131013
+EN work/UC 1507558023 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/UC.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/UC/Behavioral 1507558024 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador/UC.vhd" \
+      EN work/UC 1507558023
+FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/IM.vhd" 2017/10/09.03:47:11 P.20131013
+EN work/IM 1507558021 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/IM.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB std/TEXTIO 1381692176
+AR work/IM/Behavioral 1507558022 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/IM.vhd" \
+      EN work/IM 1507558021
+FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/MUX.vhd" 2017/10/09.03:09:06 P.20131013
+EN work/MUX 1507558029 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/MUX.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/MUX/Behavioral 1507558030 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/MUX.vhd" \
+      EN work/MUX 1507558029
+FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/nPC.vhd" 2017/10/09.03:01:05 P.20131013
+EN work/nPC 1507558017 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/nPC.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/nPC/Behavioral 1507558018 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/nPC.vhd" \
+      EN work/nPC 1507558017
+FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/Procesador.vhd" 2017/10/09.03:40:28 P.20131013
+EN work/Procesador 1507558033 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/Procesador.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Procesador/Behavioral 1507558034 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/Procesador.vhd" \
+      EN work/Procesador 1507558033 CP sumador CP nPC CP PC CP IM CP UC CP SEU CP RF \
+      CP MUX CP ALU
+FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/RF.vhd" 2017/10/09.02:57:55 P.20131013
+EN work/RF 1507558027 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/RF.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/RF/Behavioral 1507558028 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/RF.vhd" \
+      EN work/RF 1507558027
+FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/SEU.vhd" 2017/10/09.03:10:39 P.20131013
+EN work/SEU 1507558025 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/SEU.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/SEU/Behavioral 1507558026 \
+      FL "C:/Documents and Settings/Administrador/Mis documentos/Arquitectura/Procesador2_1/Procesador2/SEU.vhd" \
+      EN work/SEU 1507558025
